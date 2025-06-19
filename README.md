@@ -1,2 +1,2 @@
 # love Docs
-A birthday gift webpage
+A way to say love
